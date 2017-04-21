@@ -1,0 +1,10 @@
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\GenerateResource.read.1.tlog
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\GenerateResource.write.1.tlog
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\bin\WebApplication2.xml
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+c:\users\desarrollo\documents\visual studio 2010\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
